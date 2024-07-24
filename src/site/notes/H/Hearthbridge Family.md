@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/h/hearthbridge-family/"}
 ---
 
-
+# Hearthbridge Family
 
 The Hearthbridge family is descended from one of four surviving knights of an obscure Brotherhood hidden within the [[Knights of St. John\|Knights of St. John]] (Hospitaller). After a disastrously unsuccessful evocation of [[G/Great Old Ones\|Great Old Ones]], four remaining members of the Brotherhood go on to seed the _foundations_ of what would eventually become four major cults in the New World: the [[C/Chesuncook Witch Coven\|Chesuncook Witch Coven]] (in [[M/Maine\|Maine]]), the [[S/Starry Wisdom Cult\|Church of Starry Wisdom]] (in [[R/Rhode Island\|Rhode Island]]), the [[C/Cthulhu Cult\|Cthulhu Cult]] (in [[Louisiana\|Louisiana]]), and the [[E/Esoteric Order of Dagon\|Esoteric Order of Dagon]] (in [[M/Massachusetts\|Massachusetts]]).
 

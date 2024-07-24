@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/g/gilman-walter/","tags":["arkham","gilman","male","person"]}
 ---
 
+# Gilman, Walter
 
 See *The Dreams in the Witch House*
 

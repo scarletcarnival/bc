@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/extras/organizations/"}
 ---
 
+# Organizations
 
 - [[E/Esoteric Order of Dagon\|Esoteric Order of Dagon]]
 - [[H/Hearthbridge Academy\|Hearthbridge Academy]]

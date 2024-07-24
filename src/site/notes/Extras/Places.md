@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/extras/places/"}
 ---
 
-
+# Places
 # State
 - [[C/Connecticut\|Connecticut]] 
 - [[M/Massachusetts\|Massachusetts]] 

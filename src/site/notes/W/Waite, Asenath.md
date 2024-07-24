@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/w/waite-asenath/","tags":["female","innsmouth","massachusetts","person","waite","derby"]}
 ---
 
+# Waite, Asenath
+
 Also [[W/Waite, Asenath\|Asenath Derby]]
 Wife of [[D/Derby, Edward Pickman\|Edward Pickman Derby]]
 Daughter (and reincarnation of) [[W/Waite, Ephraim\|Ephraim Waite]]

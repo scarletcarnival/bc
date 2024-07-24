@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/g/gilman-family/"}
 ---
 
+# Gilman Family
 
 One of the “very retiring” (i.e., very private and reserved) socially-superior families of [[I/Innsmouth\|Innsmouth]]; like the Waites, the Marshes, and the Eliots, the Gilmans live in big houses along Washington Street with well-tended lawns and gardens—and like those other families, they also have members who are never seen in public. Innsmouth’s economic decline in the early 19th century was attributable in part to the loss at sea of two Gilman-owned merchant ships, the *[[E/Eliza\|Eliza]]* and the *[[R/Ranger\|Ranger]]*, with crews of irreplaceable local men. A certain [[G/Gilman, Hiram\|Hiram Gilman]] was one of the younger townsfolk who were apparently kidnapped and sacrificed to the [[D/Deep Ones\|Deep Ones]] prior to the 1846 events in [[I/Innsmouth\|Innsmouth]]. In *The Thing on the Doorstep*, [[D/Derby, Edward Pickman\|Edward Derby]] tells his friend that the Gilmans of [[I/Innsmouth\|Innsmouth]]—his wife Asenath’s hometown—“whisper about the way that {her father Ephraim Waite} shrieked—like a frightened child” when he was locked up in a madhouse. This bit of detail rings very falsely when compared to the very detailed portrait of Innsmouth in *The Shadow Over Innsmouth*; as depicted in the latter story, residents like the Gilmans would seem unlikely ever to have “opened up” in such a way to any outsider, let alone a visiting dupe such as Edward Derby. The entire [[I/Innsmouth\|Innsmouth]] connection in *The Thing on the Doorstep* doesn’t make much sense, in fact.
 

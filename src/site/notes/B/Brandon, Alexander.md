@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/b/brandon-alexander/","tags":["brandon","bristolcove","male","triptychfamily","person"]}
 ---
 
-
+# Brandon, Alexander
 
 **Age:** 35  
 **Height:** 6’0”  

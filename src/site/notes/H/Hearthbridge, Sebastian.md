@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/h/hearthbridge-sebastian/","tags":["hearthbridge","bristolcove","male","person","triptychfamily"]}
 ---
 
+# Hearthbridge, Sebastian
 
 **Age:** 33  
 **Height:** 6’2”  

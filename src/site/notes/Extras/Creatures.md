@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/extras/creatures/"}
 ---
 
+# Creatures
+
 ## Monsters
 - [[D/Deep Ones\|Deep Ones]]
 - [[G/Ghouls\|Ghouls]]

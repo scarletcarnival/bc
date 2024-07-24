@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/b/books/"}
 ---
 
+# Books
+
 
 # Mysterious Volumes (Fictional)
 

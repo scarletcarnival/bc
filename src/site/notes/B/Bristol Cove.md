@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/b/bristol-cove/","tags":["bristolcove","location","city","massachusetts"]}
 ---
 
-
+# Bristol Cove
 ## Location
 
 Bristol Cove is the sister seaport city to [[I/Innsmouth\|Innsmouth]] in Southern Massachusetts, southwest of [[P/Providence\|Providence]], Rhode Island, south of I-195, just off the mouth of the [[W/Wexford River\|Wexford River]]. It was founded in 1658. While the city is actually created around New London, Connecticut (1921), it is positioned in a series of inlets and coves to the East of [[D/Dartmouth\|Dartmouth]], Massachusetts that replaces the Slocums River area.

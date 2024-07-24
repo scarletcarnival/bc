@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/w/waite-family/"}
 ---
 
-
+# Waite Family
 
 - [[W/Waite, Asenath\|Asenath Waite]]
 - [[W/Waite, Ephraim\|Ephraim Waite]]

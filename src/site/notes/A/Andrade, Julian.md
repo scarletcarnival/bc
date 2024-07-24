@@ -4,7 +4,6 @@
 
 Married to [[B/Blake, Russell\|Russell Blake]].
 
-
-
+# Andrade, Julian
 
 ![julian.png](/img/user/Extras/Images/julian.png)

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/d/dalton-zane/","tags":["bristolcove","male","person","innsmouth","marsh"]}
 ---
 
+# Dalton, Zane
 
 **Age:** 30  
 **Height:** 6’1”  
