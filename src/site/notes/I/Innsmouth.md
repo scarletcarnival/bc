@@ -13,6 +13,7 @@ Innsmouth is located at the mouth of the Manuxet river, a bit past the southern 
 A long, black reef called Devil Reef lies a mile and a half off the coast. Y’ha-nthlei, an underwater city of the Deep Ones, lies somewhere beyond Devil Reef.
 
 Inland of Innsmouth are wide salt marshes, desolate and unpeopled. To the northwest is the town of Rowley, and to the southwest is Ipswich.
+
 To the south stretches a long line of cliffs that overlook Boynton Beach, culminate in Kingsport Head, and veer off toward Cape Ann.
 ### Travel Connections
 The main roads out of town are:
