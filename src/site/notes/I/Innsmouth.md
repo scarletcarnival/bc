@@ -14,9 +14,6 @@ A long, black reef called Devil Reef lies a mile and a half off the coast. Y’h
 
 Inland of Innsmouth are wide salt marshes, desolate and unpeopled. To the northwest is the town of Rowley, and to the southwest is Ipswich.
 To the south stretches a long line of cliffs that overlook Boynton Beach, culminate in Kingsport Head, and veer off toward Cape Ann.
-
-Map of Innsmouth.
-Explanation of the map.
 ### Travel Connections
 The main roads out of town are:
 - Federal Street.
