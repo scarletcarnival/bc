@@ -6,12 +6,12 @@
 
 ## Index
 
-[[~/People\|People]]
-[[~/Places\|Places]]
-[[~/Creatures\|Creatures]]
-[[~/Organizations\|Organizations]]
-[[~/Things\|Things]]
-[[~/Maps/Maps\|Maps]]
+[[Extras/People\|People]]
+[[Extras/Places\|Places]]
+[[Extras/Creatures\|Creatures]]
+[[Extras/Organizations\|Organizations]]
+[[Extras/Things\|Things]]
+[[Extras/Maps/Maps\|Maps]]
 [[T/Timeline\|Timeline]]
 
 
