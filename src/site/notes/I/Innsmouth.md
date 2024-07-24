@@ -6,6 +6,7 @@
 
 Innsmouth is a seaport town on the east coast of Essex County, Massachusetts. 
 
+[[Extras/Maps/Innsmouth City Map\|Innsmouth City Map]]
 ### Geography
 Innsmouth is located at the mouth of the Manuxet river, a bit past the southern tip of Plum Island.
 
