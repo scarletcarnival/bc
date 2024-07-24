@@ -4,4 +4,4 @@
 
 # Bristol Cove Map
 
-![[BC_000a.pdf]]
+![BC_000a.jpg](/img/user/Extras/Images/BC_000a.jpg)
