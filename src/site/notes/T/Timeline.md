@@ -68,9 +68,9 @@
     
 - 1607 - Foundation of Jamestown, the first permanent English settlement in the Americas.
 	
-- 1643 — Founding of Innsmouth by Zachariah Marsh.
+- **1643 — Founding of Innsmouth by Zachariah Marsh.**
     
-- 1658 — Founding of Bristol Cove by the Triptych Families.
+- **1658 — Founding of Bristol Cove by the Triptych Families.**
     
 - 1692 — Salem Witch Trials
 
@@ -84,9 +84,9 @@
     
 - 1804 - Haitian Revolution; the first successful slave rebellion.
 	
-- 1838 — Obed Marsh returns with South Pacific religion; founding of Esoteric Order of Dagon.
+- **1838 — Obed Marsh returns with South Pacific religion; founding of Esoteric Order of Dagon.**
 - 1839-1842 - First Opium War in China; beginning of the century of humiliation.
-- 1841 — [[A/Ascension\|Ascension]] 1 (Brandon family takes over).
+- **1841 — [[A/Ascension\|Ascension]] 1 (Brandon family takes over).**
 - 1844 — Starry Wisdom Cult formed in Providence by Professor Enoch Bowen.
 - 1846 — Epidemic in Innsmouth (Attack of the Deep Ones).
 	
@@ -115,14 +115,14 @@
 - 1969 - Apollo 11 Moon landing; first humans on the Moon.
 	
 - 1989 - Fall of the Berlin Wall; beginning of the end of the Cold War.
-- 1989 — Alexander Brandon is born.
+- **1989 — Alexander Brandon is born.**
 	
 - 1991 - Dissolution of the Soviet Union.
-- 1991 — Sebastian & Jessica Hearthbridge are born.
-- 1993 — Meredith Blackwood is born.
-- 1994 — Zane Dalton is born.
+- **1991 — Sebastian & Jessica Hearthbridge are born.**
+- **1993 — Meredith Blackwood is born.**
+- **1994 — Zane Dalton is born.**
 	
-- 1999 — Landon Blackwood dies.
+- **1999 — Landon Blackwood dies.**
 
 #### 2000s
     
@@ -134,4 +134,6 @@
 - 2015 - Paris Agreement on climate change is adopted.
 	
 - 2020 - COVID-19 pandemic causes global health crisis and economic disruptions but also impacts religious practices globally, leading to the cancellation of pilgrimages, modification of rituals, and increased online religious services.
-- 2024 — [[A/Ascension\|Ascension]] 2 Attempt / Ellen Blackwood dies.
+- **2024 — [[A/Ascension\|Ascension]] 2 Attempt / Ellen Blackwood dies.**
+
+
