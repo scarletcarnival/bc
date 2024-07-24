@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extras/places/","created":"2024-01-22T16:35","updated":"2024-07-24T11:58"}
+{"dg-publish":true,"permalink":"/extras/places/"}
 ---
 
 
