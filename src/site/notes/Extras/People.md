@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/extras/people/"}
 ---
 
-
+# People
 ## The Triptych Families
 - [[B/Blackwood Family\|Blackwood Family]]
 - [[B/Brandon Family\|Brandon Family]]
